@@ -1,0 +1,4 @@
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Data\bin\Debug\Bioinformatica.Hub.Data.dll
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Data\bin\Debug\Bioinformatica.Hub.Data.pdb
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Data\obj\Debug\Bioinformatica.Hub.Data.dll
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Data\obj\Debug\Bioinformatica.Hub.Data.pdb

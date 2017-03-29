@@ -1,0 +1,4 @@
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Common\bin\Debug\Bioinformatica.Hub.Common.dll
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Common\bin\Debug\Bioinformatica.Hub.Common.pdb
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Common\obj\Debug\Bioinformatica.Hub.Common.dll
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Common\obj\Debug\Bioinformatica.Hub.Common.pdb

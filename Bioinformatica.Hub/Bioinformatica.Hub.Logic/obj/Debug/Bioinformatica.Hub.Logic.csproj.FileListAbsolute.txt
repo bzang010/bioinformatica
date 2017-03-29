@@ -1,0 +1,5 @@
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Logic\bin\Debug\Bioinformatica.Hub.Logic.dll
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Logic\bin\Debug\Bioinformatica.Hub.Logic.pdb
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Logic\obj\Debug\Bioinformatica.Hub.Logic.csprojResolveAssemblyReference.cache
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Logic\obj\Debug\Bioinformatica.Hub.Logic.dll
+C:\Git\Bioinformatica\Bioinformatica.Hub\Bioinformatica.Hub.Logic\obj\Debug\Bioinformatica.Hub.Logic.pdb
